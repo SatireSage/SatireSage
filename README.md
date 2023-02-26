@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Sahajs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatireSage&show_icons=true&theme=radical)
+
+![Sahajs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatireSage&count_private=true&show_icons=true&theme=dracula)
 <!--
 **SatireSage/SatireSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
