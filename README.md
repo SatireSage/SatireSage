@@ -1,8 +1,6 @@
-### Heyo 👋
-
 [![MasterHead](https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<h1 align="center">Hi 👋, I'm Sahaj Singh</h1>
+<h1 align="center">Hello 👋 I'm Sahaj Singh</h1>
 <h3 align="center">I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, majoring in Computer Engineering and intend to minor in Computing Sciences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satiresage&label=Profile%20views&color=0e75b6&style=flat" alt="satiresage" /> </p>
