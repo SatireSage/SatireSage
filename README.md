@@ -35,8 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&locale=en" alt="satiresage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=shades-of-purple" alt="satiresage" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=shades-of-purple" alt="satiresage" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
