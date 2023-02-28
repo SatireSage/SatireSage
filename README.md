@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=satiresage&theme=shades-of-purple&v2" alt="satiresage" /></p>
