@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [sahajs.com](sahajs.com)
+- 👨‍💻 All of my projects are available at [sahajs.com](http://www.sahajs.com)
 
 - 💬 Ask me about **C, Python, Gaming and Horror movies!**
 
