@@ -3,9 +3,8 @@
 <h1 align="center">Hello 👋 I'm Sahaj Singh</h1>
 <h3 align="center">I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, majoring in Computer Engineering and intend to minor in Computing Sciences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satiresage&label=Profile%20views&color=0e75b6&style=flat" alt="satiresage" /> </p>
-
-[![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)](https://wakatime.com/@dc74a915-559e-4e2c-bc21-8f56febb5c74)
+![profileViews](https://komarev.com/ghpvc/?username=satiresage&label=Profile%20views&color=0e75b6&style=flat)
+![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -18,7 +17,7 @@
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available here on GitHub!
+- 👨‍💻 All of my projects are available here on **GitHub!**
 
 - 📜 You can view my resume on **[sahajs.com](http://www.sahajs.com)**
 
@@ -37,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&locale=en" alt="satiresage" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=shades-of-purple" alt="satiresage" /></p>
-<p>&nbsp;<a href="https://wakatime.com"><img src="https://wakatime.com/share/@SatireSage/29a57ebd-7ce4-40c3-8811-d8c467ad8063.png"/></a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satiresage&theme=shades-of-purple" alt="satiresage" /></p>
+![profileCard_1](https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&locale=en)
+![profileCard_2](https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=great-gatsby)
+![wakatimeStats](https://wakatime.com/share/@SatireSage/51e19b3c-702b-44a8-becb-972158a71bc0.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=rising-sun&hide_border=true&background=2A2A40)
