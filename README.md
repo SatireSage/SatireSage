@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available here on GitHub!
 
-- 📜 You can checkout my resume on my website [sahajs.com](http://www.sahajs.com)
+- 📜 You can view my resume on **[sahajs.com](http://www.sahajs.com)**
 
 - 💬 Ask me about **C, Python, Gaming and Horror movies!**
 
