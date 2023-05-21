@@ -38,5 +38,5 @@
 
 ![profileCard_1](https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&locale=en)
 ![profileCard_2](https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=great-gatsby)
-![wakatimeStats](https://wakatime.com/share/@SatireSage/51e19b3c-702b-44a8-becb-972158a71bc0.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=rising-sun&hide_border=true&background=2A2A40)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=sunset-gradient&hide_border=true&background=0C1117)
+![wakatimeStats](https://wakatime.com/share/@SatireSage/83aa9ff7-0b74-49a8-877f-e10f456e5e33.svg)
