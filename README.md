@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](http://www.sahajs.com)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)](http://www.sahajs.com)
 
 <h1 align="center">Hello 👋 I'm Sahaj Singh</h1>
 <h3 align="center">I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, majoring in Computer Engineering and intend to minor in Computing Sciences.</h3>
