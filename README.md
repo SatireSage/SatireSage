@@ -1,42 +1,58 @@
+<h2 align="center">Hey there, 👋 I'm Sahaj Singh</h2>
+
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)](http://www.sahajs.com)
-
-<h1 align="center">Hello 👋 I'm Sahaj Singh</h1>
-<h3 align="center">I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, majoring in Computer Engineering and intend to minor in Computing Sciences.</h3>
-
 ![profileViews](https://komarev.com/ghpvc/?username=satiresage&label=Profile%20views&color=0e75b6&style=flat)
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
+
+-----
+<h2 align="center">About Me 🔍</h2>
+<table border="0">
+<tr>
+<td valign="top" width="50%">
+  
+I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, majoring in 💻 <b>Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages, and I have a passion for all things tech 👨‍💻!
+
+I started self-learning 🌱 programming when I was in middle school and since have been sharpening my skills further via my degree and always keeping on the hunt to learn more 🔭. Have a look at my projects on my GitHub profile. If you're curious about my journey so far, you can peek at my resume 📜 on my portfolio:
+<a href="http://www.sahajs.com">
+  <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>💻
+
+💬 Feel free to drop me a line and connect with me:
+<p align="left">  
+  <a href="https://www.linkedin.com/in/sahaj--singh/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/SatireSage">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:sahaj_singh@sfu.ca">
+  <img alt="Email" src="https://img.shields.io/badge/Email-43853d?style=flat-square&logo=minutemailer&logoColor=white" />
+</a>
+</p>
+</td>
+<td valign="top" width="50%">
+
+![GIF](https://github.com/SatireSage/SatireSage/assets/49692422/05c18881-e493-4b71-a64f-b0ee428115e1)
+
+</td>
+</tr>
+</table>
+
+-----
+<h3 align="left">My favourites:</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img align="right" alt="GIF" src="https://github.com/SatireSage/SatireSage/assets/49692422/05c18881-e493-4b71-a64f-b0ee428115e1" width="400" height="320" />
+-----
 
-- 🔭 I’m currently working on **A few personal projects here and there**
-
-- 🌱 I’m currently learning **Computer Engineering**
-
-- 👨‍💻 All of my projects are available here on **GitHub!**
-
-- 📜 You can view my resume on **[sahajs.com](http://www.sahajs.com)**
-
-- 💬 Ask me about **C, Python, Gaming and Horror movies!**
-
-- 📫 How to reach me **through my website**
-
-- ⚡ Fun fact **I write short stories in my spare time**
-
-<h3 align="left">Learn more about me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahaj--singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahaj--singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mode.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mode.coding" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
+<!---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=sunset-gradient&hide_border=true&background=0C1117)
 ![profileCard_1](https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&locale=en)
 ![profileCard_2](https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=great-gatsby)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=sunset-gradient&hide_border=true&background=0C1117)
 ![wakatimeStats](https://wakatime.com/share/@SatireSage/83aa9ff7-0b74-49a8-877f-e10f456e5e33.svg)
+---!>
