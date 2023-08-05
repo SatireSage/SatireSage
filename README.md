@@ -3,17 +3,14 @@
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
 
 -----
-<h1 align="center">Hey there, 👋 I'm Sahaj Singh</h1>
+<h1 align="left">Hey there, 👋 I'm Sahaj Singh</h1>
 <table border="0">
 <tr>
 <td valign="top" width="50%">
   
 I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, <b>majoring in 💻 Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages, and I have a passion for all things tech 👨‍💻!
 
-I started <b>self-learning 🌱 programming</b> when I was in middle school and since have been sharpening my skills further via my degree and always keeping on the hunt to learn more 🔭. Have a look at my projects on my GitHub profile. If you're curious about my journey so far, you can peek at my resume 📜 on my portfolio:
-<a href="http://www.sahajs.com">
-  <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>💻
+I started <b>self-learning 🌱 programming</b> when I was in middle school and since have been sharpening my skills further via my degree and always keeping on the hunt to learn more 🔭. Have a look at my projects on my GitHub profile. If you're curious about my journey so far, you can peek at my resume on **[sahajs.com](http://www.sahajs.com)** 🌐
 
 💬 Feel free to drop me a line and <b>connect with me</b>:
 <p align="left">  
