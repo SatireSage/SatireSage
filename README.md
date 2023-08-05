@@ -3,7 +3,7 @@
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
 
 -----
-<h2 align="center">Hey there, 👋 I'm Sahaj Singh</h2>
+<h1 align="center">Hey there, 👋 I'm Sahaj Singh</h1>
 <table border="0">
 <tr>
 <td valign="top" width="50%">
