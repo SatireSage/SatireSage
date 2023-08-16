@@ -3,7 +3,7 @@
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
 
 -----
-<h1 align="left">Hey there, 👋 I'm Sahaj Singh</h1>
+<h1 align="left">Hey there, <img src="https://emojis.slackmojis.com/emojis/images/1643514612/6181/waving_hand_animated.gif?1643514612" width="30"/> I'm Sahaj Singh</h1>
 <table border="0">
 <tr>
 <td valign="top" width="50%">
