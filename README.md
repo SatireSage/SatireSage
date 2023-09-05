@@ -3,12 +3,12 @@
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
 
 -----
-<h1 align="left">Hey there, <img src="https://emojis.slackmojis.com/emojis/images/1643514612/6181/waving_hand_animated.gif?1643514612" width="30"/> I'm Sahaj Singh</h1>
+<h1 align="left">Hey, I am Sahaj Singh <img src="https://emojis.slackmojis.com/emojis/images/1643514612/6181/waving_hand_animated.gif?1643514612" width="30"/> </h1>
 <table border="0">
 <tr>
 <td valign="top" width="50%">
   
-I am a 3rd-year student at Simon Fraser University, pursuing an undergraduate degree, <b>majoring in 💻 Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages, and I have a passion for all things tech 👨‍💻!
+I am a 4th-year student at Simon Fraser University, pursuing an undergraduate degree, <b>majoring in 💻 Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages, and I have a passion for all things tech 👨‍💻!
 
 I started <b>self-learning 🌱 programming</b> when I was in middle school and since have been sharpening my skills further via my degree and always keeping on the hunt to learn more 🔭. Have a look at my projects on my GitHub profile. If you're curious about my journey so far, you can peek at my resume on **[sahajs.com](http://www.sahajs.com)** 🌐
 
@@ -46,30 +46,30 @@ I started <b>self-learning 🌱 programming</b> when I was in middle school and 
     </tr>
   </thead>
   <tbody>
-    <tr align="center">
+    <tr align="left">
       <td><a href="https://github.com/SatireSage/EngBuddy"><b>EngBuddy</b></a></td>
       <td><p>Python, ChatGPT, DALL-E v2 API</p></td>
-      <td><p><b>EngBuddy</b> is a personal engineering assistant available 24/7 on Discord. Its advanced AI capabilities provide personalized support to help users succeed in their studies. Key features include question and answer using ChatGPT integration, custom image generation using DALL-E v2, course information retrieval, professor ratings, course ratings, and RetroPie Arcade integration (in progress). It also supports ephemeral messages and direct messaging.</p></td>
+      <td><p>Developed <b>EngBuddy</b>, a Discord-based AI engineering assistant that offers round-the-clock academic support. Integrated ChatGPT for real-time Q&A sessions and employed DALL-E v2 for custom image generation tailored to user queries.</p></td>
     </tr>
-    <tr align="center">
+    <tr align="left">
       <td><a href="https://github.com/SatireSage/Multi-threaded-Memory-Allocator"><b>Multi-threaded Memory Allocator</b></a></td>
-      <td><p>C</p></td>
-      <td><p>Developed a <b>multi-threaded memory allocator in C</b>, supporting First Fit, Best Fit, and Worst Fit allocation algorithms. Features include allocator initialization, allocation/deallocation interfaces, metadata management, compaction support, statistics reporting, multi-threading support, and uninitialization. Test cases were designed for functionality and efficiency testing. Also provided a custom Makefile for easy compilation and execution.</p></td>
+      <td><p>C, Linux</p></td>
+      <td><p>Implemented a <b>multi-threaded memory allocator in C</b>, integrating First, Best, and Worst Fit allocation algorithms. The allocator boasts of advanced features such as efficient metadata management, compaction support, and multi-threading capabilities for enhanced performance.</p></td>
     </tr>
-    <tr align="center">
+    <tr align="left">
       <td><a href="https://github.com/SatireSage/Simple-Linux-Shell"><b>Simple Linux Shell</b></a></td>
-      <td><p>C</p></td>
-      <td><p>Developed an <b>interactive Linux shell in C</b>, capable of executing user commands in individual processes and incorporating support for internal commands. The project includes features such as a command history that preserves the last 10 commands and the ability to execute commands from history using !n and !!. The shell interface was enhanced by displaying the current working directory in the prompt and extending the cd command to support intuitive navigation.</p></td>
+      <td><p>C, Linux</p></td>
+      <td><p>Developed an <b>interactive Linux shell in C</b>,adept at parsing and executing diverse user commands. Enhanced user experience is ensured with a dynamic command history feature and a display that constantly indicates the current directory.</p></td>
     </tr>
-    <tr align="center">
+    <tr align="left">
       <td><a href="https://github.com/SatireSage/Dronee"><b>Dronee - Drone Controller and System</b></a></td>
       <td><p>C, BeagleBone Green, Arduino Nano 33 IOT</p></td>
-      <td><p>Designed firmware for a <b>wireless drone system</b> using a BeagleBone Green and Arduino Nano 33 IOT. Features included multiple control modes, integrated LCD display, ultrasonic sensor for gesture-based height control. Developed a custom driver for a UART-BLE module for efficient communication and incorporated watchdog and systemd scripts for automated restarts to handle system crashes.</p></td>
+      <td><p>Designed firmware for a <b>wireless drone system</b> using a BeagleBone Green and Arduino Nano 33 IOT. Features encompasses wireless controls, an integrated LCD display for real-time feedback, and a gesture-based height control mechanism using ultrasonic sensors. Further optimization was achieved with a custom UART-BLE driver ensuring smooth communication.</p></td>
     </tr>
-    <tr align="center">
+    <tr align="left">
       <td><a href="https://github.com/SatireSage/FASTrack"><b>FASTrack - Reaction Time Game</b></a></td>
       <td><p>ARM7 (Assembly), Xilinx ZedBoard</p></td>
-      <td><p>Developed a <b>reaction time-based game for the Xilinx ZedBoard</b>, utilizing the ARM7 assembly instruction set. Implemented game features such as multiple speed modes and user controls through switches, OLED display and LEDs for visual feedback. The project demonstrated key concepts including timer interrupts, masking, OLED display usage, and Finite State Machines (FSMs).</p></td>
+      <td><p>Developed a <b>reaction time-based game for the Xilinx ZedBoard</b>, utilizing the ARM7 assembly instruction set. The game stands out with its multiple speed modes, visual feedback through OLED display, and a solid foundation in timer interrupts and Finite State Machines.</p></td>
     </tr>
   </tbody>
 </table>
