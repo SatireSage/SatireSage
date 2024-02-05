@@ -1,7 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)](http://www.sahajs.com)
+[![MasterHead](https://github.com/SatireSage/SatireSage/assets/49692422/865aac60-f4e8-4416-8c1e-4cdfa4b18b71)](http://www.sahajs.com)
 ![profileViews](https://komarev.com/ghpvc/?username=satiresage&label=Profile%20views&color=0e75b6&style=flat)
 ![wakatime](https://wakatime.com/badge/user/dc74a915-559e-4e2c-bc21-8f56febb5c74.svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="left">Hey, I am Sahaj Singh <img src="https://emojis.slackmojis.com/emojis/images/1643514612/6181/waving_hand_animated.gif?1643514612" width="30"/> </h1>
@@ -86,12 +85,13 @@ I started <b>self-learning 🌱 programming</b> when I was in middle school and 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
 
 <!---
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
 ![wakatimeStats](https://wakatime.com/share/@SatireSage/83aa9ff7-0b74-49a8-877f-e10f456e5e33.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatireSage&theme=sunset-gradient&hide_border=true&background=0C1117)
 ![profileCard_1](https://github-readme-stats.vercel.app/api?username=satiresage&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&locale=en)
 ![profileCard_2](https://github-readme-stats.vercel.app/api/top-langs?username=satiresage&show_icons=true&locale=en&layout=compact&hide_progress=false&theme=great-gatsby)
 ![wakatimeStats](https://wakatime.com/share/@SatireSage/83aa9ff7-0b74-49a8-877f-e10f456e5e33.svg)
+<img width="1031" alt="Screenshot 2024-02-05 at 2 57 28 AM" src="https://github.com/SatireSage/SatireSage/assets/49692422/865aac60-f4e8-4416-8c1e-4cdfa4b18b71"> 
 ---!>
