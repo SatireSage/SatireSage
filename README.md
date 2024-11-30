@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="50%">
   
-I am a 4th-year student at Simon Fraser University, pursuing an undergraduate degree, <b>majoring in 💻 Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages, and I have a passion for all things tech 👨‍💻!
+I am a 5th-year student at Simon Fraser University, pursuing an undergraduate degree, <b>majoring in 💻 Computer Engineering</b>, and intend to minor in Computing Sciences. I'm a coder at heart, with <b>C and Python</b> as my go-to languages (with VHDL/Verilog for hardware!), and I have a passion for all things tech 👨‍💻!
 
 I started <b>self-learning 🌱 programming</b> in middle school and have been sharpening my skills further via my degree and always keeping on the hunt to learn more 🔭. Have a look at my projects on my GitHub profile. If you're curious about my journey so far, you can peek at my resume on **[sahajs.com](http://www.sahajs.com)** 🌐
 
