@@ -24,8 +24,8 @@ I started <b>self-learning 🌱 programming</b> in middle school and have been s
 </p>
 </td>
 <td valign="top" width="50%">
-
-![GIF](https://images-ext-1.discordapp.net/external/3mWCxJw4iG_vlzrZaScFH75kZaZHnmTN0sBfmksUiyE/https/cdn.dribbble.com/users/1040798/screenshots/15685874/media/aa9588469e19517c2b94b1addd15d11d.gif?width=1600&height=1200)
+ 
+![GIF](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif?width=1600&height=1200)
 
 </td>
 </tr>
